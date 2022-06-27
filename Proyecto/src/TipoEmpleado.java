@@ -1,0 +1,11 @@
+
+public enum TipoEmpleado {
+	
+	MOZO,
+	EMPLEADO_ADMINISTRATIVO,
+	BARTENDER,
+	COCINERO,
+	CERVECERO,
+	CANDYBAR;
+
+}
